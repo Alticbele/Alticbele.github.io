@@ -6,30 +6,31 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-11T06:28:14.087Z</updated>
+  <updated>2019-10-11T07:21:23.764Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>肖文静</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>如何搭建自己的博客</title>
     <link href="http://yoursite.com/2019/10/11/first/"/>
     <id>http://yoursite.com/2019/10/11/first/</id>
     <published>2019-10-11T06:22:43.394Z</published>
-    <updated>2019-10-11T06:28:14.087Z</updated>
+    <updated>2019-10-11T07:21:23.764Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="如何搭建自己的博客"><a href="#如何搭建自己的博客" class="headerlink" title="如何搭建自己的博客"></a>如何搭建自己的博客</h1><p>身为一名程序猿，拥有一个属于自己的博客是必不可少的，而能够自己搭建自己的博客，也能让我们程序猿的气质更加的极客范，那让我们来看看如何搭建属于自己的博客吧！</p><p>工具： Node.js<br>       Git<br><em>以上工具请自行到官网下载</em></p><p>首先创建一个博客的文件夹，在这个文件夹在右键git bash here打开命令行，</p>]]></content>
+    <content type="html"><![CDATA[<p>身为一名程序猿，拥有一个属于自己的博客是必不可少的，而能够自己搭建自己的博客，也能让我们程序猿的气质更加的极客范，那让我们来看看如何搭建属于自己的博客吧！</p><p>工具： Node.js<br>       Git<br><em>以上工具请自行到官网下载</em></p><p>首先创建一个博客的文件夹，在这个文件夹在右键git bash here打开命令行，</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;如何搭建自己的博客&quot;&gt;&lt;a href=&quot;#如何搭建自己的博客&quot; class=&quot;headerlink&quot; title=&quot;如何搭建自己的博客&quot;&gt;&lt;/a&gt;如何搭建自己的博客&lt;/h1&gt;&lt;p&gt;身为一名程序猿，拥有一个属于自己的博客是必不可少的，而能够自己搭建自己的博客，也能让
+        &lt;p&gt;身为一名程序猿，拥有一个属于自己的博客是必不可少的，而能够自己搭建自己的博客，也能让我们程序猿的气质更加的极客范，那让我们来看看如何搭建属于自己的博客吧！&lt;/p&gt;
+&lt;p&gt;工具： Node.js&lt;br&gt;       Git&lt;br&gt;&lt;em&gt;以上工具请自行到官网下载&lt;/em&gt;&lt;/
       
     
     </summary>
