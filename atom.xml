@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>记录一下！</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-11T08:49:00.739Z</updated>
+  <updated>2019-10-11T13:17:42.307Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>扫雷项目总结</title>
+    <link href="http://yoursite.com/2019/10/11/mine-sweeper/"/>
+    <id>http://yoursite.com/2019/10/11/mine-sweeper/</id>
+    <published>2019-10-11T13:05:15.513Z</published>
+    <updated>2019-10-11T13:17:42.307Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一次做游戏，用的是原生JS写的扫雷，刚开始准备写的时候，一直卡在方格扩散那一步，看了一些关于扩散算法的文章，没能理解透彻，但是最后还是解决了这个问题</p><p>此项目用的是面向对象的设计的方法，利用了构造函数来一步一步的实现每一个功能</p><p>项目中遇到的问题</p><ul><li>雷的随机生成</li><li>扩散过程中的资源浪费</li><li>旗子的取消和插上对最后游戏结果的影响</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;第一次做游戏，用的是原生JS写的扫雷，刚开始准备写的时候，一直卡在方格扩散那一步，看了一些关于扩散算法的文章，没能理解透彻，但是最后还是解决了这个问题&lt;/p&gt;
+&lt;p&gt;此项目用的是面向对象的设计的方法，利用了构造函数来一步一步的实现每一个功能&lt;/p&gt;
+&lt;p&gt;项目中遇到的问题&lt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>如何搭建自己的博客</title>
